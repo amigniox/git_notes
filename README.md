@@ -12,7 +12,7 @@ Many of the following pages use the following syntax convesion
 
 [Motivation](Motivation)
 
-[Structure of a Repository](Structure) (commit: tree, parents, and message)
+[Structure of a Repository](Structure.md) (commit: tree, parents, and message)
 
 [Creating a Repository](Creating) (git init, clone, and config)
 
