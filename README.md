@@ -26,3 +26,6 @@ Many of the following pages use the following syntax convesion
 [Specifying Commits](References.md) (gitrevisions)
 
 [Working with Branches](Branches.md) (git branch, checkout, stash, reflog, and tag)
+
+## etc etc
+[Pro Git book](https://git-scm.com/book/en/v2)
