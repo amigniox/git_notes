@@ -119,3 +119,5 @@ git tag -d <name>
 ```
 
 * Delete tag *name*
+
+[Back to content index](Home.md) (Index)

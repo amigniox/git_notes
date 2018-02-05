@@ -47,3 +47,6 @@ git checkout [-p] <path> ...
 
 * reset *path* in working directory (undo non-staged local edits)
 * `-p` interactively select specific patches (blocks of edits)
+
+
+[Back to content index](Home.md) (Index)

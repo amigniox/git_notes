@@ -49,3 +49,4 @@ git config user.name "<full name>"
 git config core.editor "<editor>"
 git config color.ui auto
 ```
+[Back to content index](Home.md) (Index)

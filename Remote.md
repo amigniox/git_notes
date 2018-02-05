@@ -66,3 +66,6 @@ git pull [<repository> [<refspec> ...]]
 
 * Fetch refs according to *refspec* from *repository* (defaults depend
   on config) and then merge them
+
+
+[Back to content index](Home.md) (Index)

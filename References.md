@@ -35,3 +35,6 @@
 * `^<ref>` every commit not-reachable from *commit*
 * `<first range> <second range>` intersection of commits in *first
   range* and *second range*
+
+
+[Back to content index](Home.md) (Index)

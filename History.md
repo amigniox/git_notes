@@ -48,3 +48,5 @@ git diff [--words-diff] <first commit> <second commit> [<path> ...]
 * changes made between *first commit* and *second commit* (can also
   use *first commit*..*second commit*)
 * `--words-diff` do a word-by-word diff instead of a line-by-line diff
+
+[Back to content index](Home.md) (Index)

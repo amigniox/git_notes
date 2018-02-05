@@ -9,3 +9,5 @@ and consists of
 * parents - the commits (versions/snapshots of the project) the commit
             comes from
 * message - the author and their description of the commit
+
+[Back to content index](Home.md) (Index)
