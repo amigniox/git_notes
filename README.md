@@ -9,7 +9,7 @@ Many of the following pages use the following syntax convesion
 * `...` preceeding item can optionally be repeated
 
 ## Topics
-[Home](home.md) (same content as in this page)
+[Home](Home.md) (same content as in this page)
 
 [Structure of a Repository](Structure.md) (commit: tree, parents, and message)
 
