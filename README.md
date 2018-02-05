@@ -9,19 +9,18 @@ Many of the following pages use the following syntax convesion
 * `...` preceeding item can optionally be repeated
 
 ## Topics
-
-[Motivation](Motivation)
+[Home](home.md) (same content as in this page)
 
 [Structure of a Repository](Structure.md) (commit: tree, parents, and message)
 
-[Creating a Repository](Creating) (git init, clone, and config)
+[Creating a Repository](Creating.md) (git init, clone, and config)
 
-[Working Locally with a Repository](Local) (git status, add, commit, reset, and checkout)
+[Working Locally with a Repository](Local.md) (git status, add, commit, reset, and checkout)
 
-[Examining your Repository](History) (git show, log, diff, and blame)
+[Examining your Repository](History.md) (git show, log, diff, and blame)
 
-[Working with Remote Repositories](Remote) (git remote, push, fetch, merge, and pull)
+[Working with Remote Repositories](Remote.md) (git remote, push, fetch, merge, and pull)
 
-[Specifying Commits](References) (gitrevisions)
+[Specifying Commits](References.md) (gitrevisions)
 
-[Working with Branches](Branches) (git branch, checkout, stash, reflog, and tag)
+[Working with Branches](Branches.md) (git branch, checkout, stash, reflog, and tag)
