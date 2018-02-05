@@ -1,5 +1,7 @@
 # Version Control with Git
 
+This set of notes summerizes useful topics of git. 
+
 ## Note on Syntax
 
 Many of the following pages use the following syntax convesion
